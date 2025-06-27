@@ -13,7 +13,7 @@ A simple Spring Boot starter with:
 - User registration and login with JWT  
 - Passwords hashed with BCrypt  
 - JWT token creation and validation  
-- Secure endpoints — customize roles later if needed  
+- Secure endpoints - customize roles later if needed  
 
 ---
 
