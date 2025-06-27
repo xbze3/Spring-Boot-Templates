@@ -28,7 +28,7 @@ A simple Spring Boot starter with:
 ### Setup
 
 1. Clone the repo  
-2. Update `application.properties` with your MongoDB URI and JWT secret:
+2. Update `application.properties` or `.env` with your MongoDB URI and JWT secret:
 
 ```properties
 spring.data.mongodb.uri=mongodb://localhost:27017/your-db
